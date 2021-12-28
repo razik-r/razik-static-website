@@ -1,0 +1,39 @@
+.checked{
+    color: red;
+}
+
+
+.carousel-item img {
+
+    width: auto;
+    
+    
+
+    
+    }
+    
+#carouselExampleIndicators{
+     
+     text-align: center;
+     
+
+}
+.bd-callout{
+
+
+    padding: 1.25rem;
+    margin-top:1.25rem;
+    margin-bottom:1.25rem;
+    border:1px solid;
+    border-left-width:.25rem;
+    border-radius:.25rem;
+
+}
+.bd-callout-warning{
+    border-left-color: tomato;
+}
+
+
+    
+    
+    
